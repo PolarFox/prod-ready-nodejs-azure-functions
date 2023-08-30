@@ -10,7 +10,7 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
-    "mongoose": "^5.12.2"
+    "mongoose": "^5.13.20"
   },
   "devDependencies": {
     "@azure/functions": "^1.2.3",
